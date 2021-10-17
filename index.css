@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: #9ad0cee8;;
+}
+.container{
+    text-align: center;
+    background: white;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10px;
+}
+.container h1{
+    font-size: 2.5vw;
+    margin-top: 10%;
+    padding-top: 2%;
+    font-family: Helvetica;
+}
+
+.container div .text {
+    width: 40%;
+    margin-top: 4%;
+    padding: 1%;
+}
+.container div .add{
+    padding: 1%;
+width: 10%;
+background: ghostwhite;
+border-radius: 3px;
+font-size: 1vw;
+font-family: Helvetica;
+font-weight: lighter;
+}
+.container div .update{
+    padding: 1%;
+width: 10%;
+background: ghostwhite;
+border-radius: 3px;
+font-size: 1vw;
+font-family: Helvetica;
+font-weight: lighter;
+}
+.container div{
+    padding-bottom: 3%;
+}
+
+ul {
+    width: 50%;
+    margin-left: 25%;
+    text-align: left;
+    list-style:none;
+}
+ul li{
+    font-size: 1.3vw;
+    padding-bottom: 4%;
+}
+
+ul li .btn1{
+    padding: 1%;
+width: 20%;
+background: ghostwhite;
+border-radius: 3px;
+font-size: 1vw;
+font-family: Helvetica;
+font-weight: lighter;
+margin-left: 3%;
+}
+ul li .btn2{
+    padding: 1%;
+width: 20%;
+background: ghostwhite;
+border-radius: 3px;
+font-size: 1vw;
+font-family: Helvetica;
+font-weight: lighter;
+margin-left: 1%;
+}
